@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alifudinniko
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning backend 
+- 🌱 I’m currently rails
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me contact me on m.rozaki099@gmail.com or
 - https://www.linkedin.com/in/alifudinniko/
